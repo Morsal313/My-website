@@ -1,0 +1,23 @@
+
+h1{
+    font-style:oblique;
+    background-color:sienna;
+    
+
+}
+#name{
+    font-style: inherit;
+}
+.heading{
+    font-style: inherit;
+    background-color: sienna;
+}
+.centering{
+    text-align: center;
+    font-size: larger;
+    font-weight: 200;
+}
+#paragraph{
+    background-color: lightcyan;
+    font-size:30px ;
+}

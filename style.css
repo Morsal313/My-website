@@ -1,0 +1,19 @@
+.caption{
+    font-size: "15px";
+    font-style:oblique;
+    
+}
+h1{
+    font-style: inherit;
+    background-color: peru;
+}
+.photo-grid{
+    display:grid ;
+    row-gap:20px ;
+    width: 200;
+    height: 100;
+
+}
+#mm{
+    color-scheme:green ;
+}
